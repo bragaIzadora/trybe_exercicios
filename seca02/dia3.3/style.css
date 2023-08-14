@@ -1,0 +1,16 @@
+h1, p {
+    text-align: center;
+}
+
+ol:hover, ul:hover {
+    background-color: blue;
+}
+
+li:active {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+li {
+    font-style: none;
+}
